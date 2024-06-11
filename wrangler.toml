@@ -1,0 +1,9 @@
+name = "emcd39"
+account_id = "fc493eec59bd58f0f98c5a71ac75e904"
+main = "src/index.ts"
+workers_dev = true
+compatibility_date = "2024-06-08"
+
+kv_namespaces = [
+	 { binding = "HAMMAL_CACHE", id = "you kv id" }
+]
